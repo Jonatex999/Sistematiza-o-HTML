@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Viaoda+Libre&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body {
+  font-size: 100%;
+  background: linear-gradient(68.15deg, #5c86d3 16.62%, #271511 85.61%);
+}
+
+.inicio {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  padding: 24px;
+}
+
+.inicio-imagem {
+  height: 72px;
+}
+
+.inicio-menu {
+  display: flex;
+  gap: 32px;
+}
+
+.inicio-menu-item {
+    font-family: "Viaoda Libre", serif;
+  color: #FFF2E7;
+  font-weight: 400;
+  font-size: 32px
+}
+
+.meio {
+  margin-bottom: 48px;
+  border-top: 0.4px solid #FFF2E7;
+}
+
+.meio-principal {
+  display: flex;
+}
+
+.meio-principal-escrito {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.meio-principal-escrito-titulo {
+  font-family: 'Righteous', cursive;
+  font-weight: 400;
+  font-size: 80px;
+  color: #FFF2E7;
+}
+
+.meio-principal-escrito-subtitulo {
+  font-family: 'Sarala', sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  color: #ECD6C4;
+}
+
+.meio-principal-escrito-botao {
+  background-color: #ECD6C4;
+  width: 180px;
+  height: 60px;
+  border: none;
+  box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  font-family: 'Sarala', sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  color: #2F2325;
+}
+
+.meio-principal-imagem {
+  height: 430px;
+}
+
+.meio-secundario {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+  margin-top: 48px;
+}
+
+.meio-secundario-titulo {
+  border-top: 0.4px solid #FFF2E7;
+  padding-top: 48px;
+  font-family: 'Righteous', cursive;
+  font-weight: 400;
+  font-size: 24px;
+  color: #e7f70a;
+  margin-bottom: 16px;
+}
+
+.meio-secundario-paragrafo {
+  font-family: 'Sarala', sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  color: #fffffc;
+}
+
+.fim {
+    padding: 32px;
+    border-top: 0.4px solid #FFF2E7;
+}
+
+.fim-imagem {
+  height: 48px;
+  display: block;
+  margin: 0 auto;
+}
+
+.meio-secundario2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin-top: 48px;
+}
+
+.meio-secundario-titulo2 {
+    font-family: 'Righteous', cursive;
+    font-size: 60px;
+    color: #30c5a5;
+    margin-bottom: 20px;
+}
+
+.meio-secundario-paragrafo2 {
+    font-family: 'Sarala', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    color: #fffffc;
+}
+
+.formulario {
+    border-top: 0.4px solid #FFF2E7;
+    padding-top: 30px;
+    font-family: 'Righteous', cursive;
+    font-weight: 400;
+    font-size: 20px;
+    color: #ececeb;
+    margin-bottom: 16px;
+}
+
+.formulario-titulo {
+    font-family: 'Righteous', cursive;
+    font-size: 30px;
+    color: #e2f029;
+    margin-bottom: 0px;
+}
