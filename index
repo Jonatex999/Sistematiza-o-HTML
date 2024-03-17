@@ -32,12 +32,18 @@
             <img class="meio-principal-imagem" src="piscina4.jpg" alt="Imagem da piscina">
         </section>
 
+
+
         <section class="meio-secundario">
             <h3 class="meio-secundario-titulo" id="serviço1">Serviços - O que a Aqua Prime oferece</h3>
             <p class="meio-secundario-paragrafo">Limpeza de <strong>piscinas</strong> em geral.</p>
             <p class="meio-secundario-paragrafo">Cursos de <strong>piscineiro</strong> com certificado</p>
-            </section>
+                                           
         </section>
+
+        <img class="piscina1" src="piscina5.jpg">
+        
+        <img class="piscina2" src="piscina.jpeg">
 
         <section class="meio-secundario2">
             
@@ -47,6 +53,9 @@
 
             <p class="meio-secundario-paragrafo2"><strong>Francisco Cicrano</strong> - Supervisor</p>
             <img class="meio-secundario2-foto2" src="piscineiro2.jpg">
+
+            <p class="meio-secundario-paragrafo2"><strong>Rafael Veiga</strong> - Piscineiro</p>
+            <img class="meio-secundario2-foto3" src="piscineiro 3.jpg">
             </section>
         </section>
 
